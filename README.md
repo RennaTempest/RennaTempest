@@ -4,6 +4,6 @@ The number of electrons in each of the atom's shells (inner, middle, and outer) 
 The positions of the electrons in each shell are calculated using trigonometry, 
 and the electrons are drawn on the screen using the ellipse() function.
 The code also draws circles passing through the electrons in each shell.
-
+code by avhishaan.
 
 
